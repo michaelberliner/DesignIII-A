@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    background-image: url(IMG_0279.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+p {
+   font-size: 20px;
+   text-align: center;
+}
+#ow {
+    letter-spacing: .6vw;
+    font-size:150px;
+    margin:0;
+    font-family: 'Amatic SC', cursive;
+    color: goldenrod;
+    padding: 2vw;
+    
+}
+
+#artist {
+    letter-spacing: .5vw;
+    font-size: 15px;
+    margin:0;
+    font-family: 'Krona One', sans-serif;
+     color: #FFFF75;
+    
+}
+#title{
+    font-size: 60px;
+    margin: -5px;
+     color: #FFFFFF;
+    font-weight: bolder;
+    letter-spacing: .2vw;
+}
+#lyricOne {
+    font-family: 'Krona One', sans-serif;
+    font-size: 1.1vw;
+    padding: 10vw;
+    color: black;
+    font-weight: bolder;
+}
+#signature{
+    text-align: right;
+    color: black;
+    margin: 0;
+    font-weight: bolder;
+    background-color: #FFFF75;
+    border-radius: 10px;
+    max-width: 165px;
+    
+}
+a:hover{
+    color: #FFFFFF;
+}
+a:visited{
+    color:black;
+   
+}
